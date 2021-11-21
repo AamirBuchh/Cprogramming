@@ -77,16 +77,16 @@ int main()
    printf("%d\n",asif>=aamir);
    printf("%d\n",asif<=aamir);
     */
-
+   //abc
    //Logical operators
-   /* 
-   int i = 0, j =1;
+   
+   /* int i = 0, j =1;
    printf("The logical operator returned for and is %d\n",i&&j);
    printf("The logical operator returned for or is %d\n",i||j);
    printf("The logical operator returned for not is %d\n",!j);
    printf("The logical operator returned for not is %d\n",!i)
-   
- */
+    */
+
    //Bitwise operators
    
    /* 
@@ -105,14 +105,17 @@ int main()
     //Assignment operator
 
     //=, +=, -=, *=, %=, etc
-    int ha = 9;
+
+    /* int ha = 9;
     ha += 9;
     printf("ha is %d\n",ha);
     ha *= 9;
     printf("ha is %d\n",ha);
     ha %= 9;
-    printf("ha is %d\n",ha);
+    printf("ha is %d\n",ha); */
 
+
+    //Misc operators: &(address), *(value at address), ?:(conditional statement)
 
 
    return 0;
